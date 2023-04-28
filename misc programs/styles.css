@@ -11,17 +11,4 @@
     height: 200px;
     background-color: blue;
 }
-/* Default styles for all screens */
-.flexcontainer {
-    display: inline-block;
-    width: 200px;
-    height: 200px;
-    background-color: blue;
-}
-.flexcontainer2 {
-    display: inline-block;
-    width: 200px;
-    height: 200px;
-    background-color: blue;
-}
 
