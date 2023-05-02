@@ -48,6 +48,14 @@ body {
     outline: none;
 }
 
+.search.active .input {
+    width: 200px;
+}
+/* Adds active class to button that can be targeted with JS  */
+.search.active .btn {
+    transform: translateX(198px)
+}
+
 
 
 
