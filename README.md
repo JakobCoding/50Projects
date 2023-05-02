@@ -6,3 +6,5 @@ Day 1 -  Expanding Cards
 Day 2 - Progress bar
 
 Day 3 - website with Rotating Navigation   
+
+Day 4 - Hidden Search Widget 
