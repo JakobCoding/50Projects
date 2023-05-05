@@ -1,10 +1,15 @@
 # 50Projects
 50 Web Dev Projects 
 
-Day 1 -  Expanding Cards
+Project 1 -  Expanding Cards
 
-Day 2 - Progress bar
+Project 2 - Progress bar
 
-Day 3 - website with Rotating Navigation   
+Project 3 - website with Rotating Navigation   
 
-Day 4 - Hidden Search Widget 
+Project 4 - Hidden Search Widget 
+
+Project 5 - Blurry Loading background
+
+Project 6 - Scrolling Animation
+
